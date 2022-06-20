@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "qpmadr"]
+	path = qpmadr
+	url = https://github.com/anderic1/qpmadr
+	shallow = true
+	registered = true
